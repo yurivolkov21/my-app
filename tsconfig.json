@@ -20,11 +20,11 @@
     ],
     "paths": {
       "@/*": ["./*"],
-      "@/styles/*": ["styles/*"],
-      "@/components/*": ["components/*"]
+      // "@/styles/*": ["styles/*"],
+      // "@/components/*": ["components/*"]
     },
-    "ignoreDeprecations": "6.0",
-    "baseUrl": "src/"
+    // "ignoreDeprecations": "6.0",
+    // "baseUrl": "src/"
   },
   "include": [
     "next-env.d.ts",
